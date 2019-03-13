@@ -3,3 +3,6 @@ bar 2 in mall 2
 whisky
 gin
 rum
+---
+mall branch
+---
